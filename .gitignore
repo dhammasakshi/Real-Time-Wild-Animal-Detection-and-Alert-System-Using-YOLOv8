@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# VS Code
+.vscode/
+
+# Screenshots
+screenshots/
+
+# CSV Logs
+logs/detections.csv
+
+# SQLite Database
+database/*.db
+
+# Ignore last training checkpoint
+runs/detect/train/weights/last.pt
