@@ -101,6 +101,5 @@ python main.py
 
 **Dhammasakshi Salve**
 
-Third-Year Information Technology Engineering Student
+Machine Learning Enthusiast 
 
-Interested in Machine Learning, and Computer Vision.
