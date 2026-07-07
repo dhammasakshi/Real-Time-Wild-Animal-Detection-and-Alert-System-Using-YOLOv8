@@ -1,4 +1,4 @@
-# 🦁 Real-Time Wild Animal Detection and Alert System Using YOLOv8
+#  Real-Time Wild Animal Detection and Alert System Using YOLOv8
 
 A real-time computer vision application that detects wild animals using a custom-trained YOLOv8 model and OpenCV. The system processes live webcam footage, identifies animals, displays bounding boxes with confidence scores, triggers an alarm for detections, captures screenshots, and stores detection records in CSV and SQLite databases.
 
