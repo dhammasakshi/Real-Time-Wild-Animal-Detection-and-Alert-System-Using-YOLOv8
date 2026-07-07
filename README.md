@@ -48,28 +48,6 @@ Wild-Animal-Detection-System/
 
 ---
 
-## Installation
-
-### Clone the repository
-
-```bash
-git clone https://github.com/dhammasakshi/Wild-Animal-Detection-System.git
-```
-
-### Navigate to the project directory
-
-```bash
-cd Wild-Animal-Detection-System
-```
-
-### Install the required dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## Run the Project
 
 ```bash
